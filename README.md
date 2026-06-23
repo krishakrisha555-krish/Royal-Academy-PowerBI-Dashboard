@@ -14,7 +14,7 @@ The primary desktop viewport features deep data modeling, cross-filtering, and h
 ### 📱 Mobile-Optimized Viewport
 A responsive layout configured specifically for mobile devices, enabling managers to audit core KPIs securely on the go.
 
-![Mobile Layout](Power bi mobile.jpg)
+![Mobile Layout](https://github.com/krishakrisha555-krish/Royal-Academy-PowerBI-Dashboard/blob/main/Power%20bi%20mobile.jpg?raw=true)
 
 ---
 
