@@ -9,7 +9,7 @@ An enterprise business intelligence dashboard engineered in **Power BI Desktop**
 ### 🖥️ Desktop Executive Layout
 The primary desktop viewport features deep data modeling, cross-filtering, and high-level metric cards for administrative decision-makers.
 
-![Desktop Layout](Power bi Dasktop.jpg)
+![Desktop Layout](https://github.com/krishakrisha555-krish/Royal-Academy-PowerBI-Dashboard/blob/main/Power%20bi%20Dasktop.jpg?raw=true)
 
 ### 📱 Mobile-Optimized Viewport
 A responsive layout configured specifically for mobile devices, enabling managers to audit core KPIs securely on the go.
